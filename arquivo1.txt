@@ -3,3 +3,37 @@ texto inicial
 mudança de numero 1
 mudança 2
 mudança 4 que estará no master mas não no testing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ouuuuuutra linha totalmente diferente das que foram alteradas(from master)
